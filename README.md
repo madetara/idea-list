@@ -15,6 +15,7 @@
 ## Полезное
 - https://chocolatey.org/ - пакетный менеджер для windows
 - https://github.com/tonsky/FiraCode - графонистый шрифт
+- https://conemu.github.io/ - удобный менеджер терминалов для windows
 
 
 #### Disclaimer
