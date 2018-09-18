@@ -17,7 +17,7 @@
 - https://chocolatey.org/ - пакетный менеджер для windows
 - https://github.com/tonsky/FiraCode - графонистый шрифт
 - https://conemu.github.io/ - удобный менеджер терминалов для windows
-
+- https://education.github.com/pack - набор инструментов, бесплатно предоставляемых студентам гитхабом и партнёрами
 
 #### Disclaimer
 I do not pretend to be owner or creator of either of the referenced materials and to get any kind of profit from them.
